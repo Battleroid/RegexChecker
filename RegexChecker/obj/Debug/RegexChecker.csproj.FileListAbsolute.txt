@@ -1,0 +1,10 @@
+c:\users\battleroid\documents\visual studio 2013\Projects\RegexChecker\RegexChecker\bin\Debug\RegexChecker.exe.config
+c:\users\battleroid\documents\visual studio 2013\Projects\RegexChecker\RegexChecker\bin\Debug\RegexChecker.exe
+c:\users\battleroid\documents\visual studio 2013\Projects\RegexChecker\RegexChecker\bin\Debug\RegexChecker.pdb
+c:\users\battleroid\documents\visual studio 2013\Projects\RegexChecker\RegexChecker\obj\Debug\RegexChecker.csprojResolveAssemblyReference.cache
+c:\users\battleroid\documents\visual studio 2013\Projects\RegexChecker\RegexChecker\obj\Debug\RegexChecker.Properties.Resources.resources
+c:\users\battleroid\documents\visual studio 2013\Projects\RegexChecker\RegexChecker\obj\Debug\RegexChecker.csproj.GenerateResource.Cache
+c:\users\battleroid\documents\visual studio 2013\Projects\RegexChecker\RegexChecker\obj\Debug\RegexChecker.exe
+c:\users\battleroid\documents\visual studio 2013\Projects\RegexChecker\RegexChecker\obj\Debug\RegexChecker.pdb
+c:\users\battleroid\documents\visual studio 2013\Projects\RegexChecker\RegexChecker\obj\Debug\RegexChecker.RegexCheckerForm.resources
+c:\users\battleroid\documents\visual studio 2013\Projects\RegexChecker\RegexChecker\obj\Debug\RegexChecker.ExpressionMatchesForm.resources
